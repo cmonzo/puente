@@ -1,0 +1,82 @@
+h2.bloque{
+    text-decoration: underline;
+    font-size: 300%;
+    text-align: center;
+}
+body.blq{
+    background-color: rgb(133, 224, 224);
+    
+}
+p.titulo{
+    background-color: rgb(54, 116, 187);
+    font-size: 200%;
+}
+p.sub{
+    background-color: rgb(165, 201, 241);
+    color: white;
+    font-size: 200%;
+}
+pre.blanco{
+    background-color: white;
+}
+p.pie{
+    text-align: right;
+}
+footer{
+    background-color: white;
+    text-align: center;
+    border: black 1px solid;
+}
+span.san{
+    color: red;
+    font-style: italic;
+    
+}
+header.comic{
+    text-align: right;
+    font-size: 400%;
+    font-family: sans-serif;
+}
+span.mandarina{
+    color: saddlebrown;
+}
+body.contra{
+    background-color: skyblue;
+    text-align: justify;
+    font-family: sans-serif;
+}
+span.narnaja{
+    color: orangered;
+}
+span.verbla{
+    background-color: white;
+    color: rgb(77, 117, 15);
+    font-style: italic;
+}
+p.charles{
+    text-align: center;
+    font-style: italic;
+}
+h1{
+    font-size: 200%;
+}
+p{
+    text-indent: 3em;
+}
+body{
+    background-color: skyblue;
+}
+nav{
+    text-align: center;
+    background-color: greenyellow;
+}
+header.principal{
+    text-align: center;
+    font-size: 400%;
+}
+section.puente{
+    font-size: 200%;
+}
+p.cursiva{
+    font-style: italic;
+}
